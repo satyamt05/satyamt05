@@ -33,7 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/satyamt05/satyamt05/output/snake.svg" alt="Snake animation" />
 
 ###
 
