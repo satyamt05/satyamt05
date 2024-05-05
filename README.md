@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<br clear="both">
+
+<h1 align="center">Hi 👋 I'm Satyam Trivedi</h1>
+
+###
+
+<p align="left">I'm a full-stack web developer from India, passionate about making open-source projects more accessible, making websites for the future, creating technology to elevate people, and building community. I enjoy working with technologies like HTML, CSS, and JavaScript .</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png"  />
+</div>
 
 ###
 
@@ -9,7 +22,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1wZzNwbm55cDA3cXh4cml4cmxuajljNm5heDI4b2Z6dHQ5YzhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1wZzNwbm55cDA3cXh4cml4cmxuajljNm5heDI4b2Z6dHQ5YzhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"  />
+</div>
 
 ###
 
@@ -44,9 +61,8 @@
 </div>
 
 ###
-
 <div align="left">
-  <a href="trivedisatyam2002@gmail.com" target="_blank">
+  <a href="mailto:trivedisatyam2002@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/trivedi-satyam/" target="_blank">
@@ -54,10 +70,5 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/satyamt05/satyamt05/output/snake.svg" alt="Snake animation" />
 
 ###
