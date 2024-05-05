@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm a full-stack web developer from India, passionate about making open-source projects more accessible, making websites for the future, creating technology to elevate people, and building community. I enjoy working with technologies like HTML, CSS, and JavaScript .</p>
+<p align="left">I'm a full-stack web developer from India, passionate about making open-source projects more accessible, making websites for the future, creating technology to elevate people, and building community. I enjoy working with technologies like HTML, CSS, and JavaScript.</p>
 
 ###
 
